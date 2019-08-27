@@ -3,13 +3,13 @@ A list of Figma Plugins that have been shared on Github.
 
 # Plugins
 
-### Image Palette
+#### Image Palette
 https://github.com/mattdesl/figma-plugin-palette
 
-### Send to top
+#### Send to top
 https://github.com/thomas-lowry/send-to-top
 
-### Themer
+#### Themer
 https://github.com/thomas-lowry/themer
 
 ### Sorter
