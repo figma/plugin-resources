@@ -3,7 +3,7 @@ A list of Figma Plugins and resources for building them.
 
 ## Plugins
 
-#### Image Palette
+*Image Palette*
 https://github.com/mattdesl/figma-plugin-palette
 
 #### Send to top
