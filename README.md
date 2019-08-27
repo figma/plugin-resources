@@ -1,5 +1,5 @@
 # Open source Figma plugins on Github
-A list of Figma Plugins that have been shared on Github.
+A list of Figma Plugins and resources for building them.
 
 ## Plugins
 
