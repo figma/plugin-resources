@@ -86,15 +86,13 @@ https://github.com/mikegowen/figma-reverse-layer-order
 ## Resources
 
 #### Figma Plugin DS
-https://github.com/thomas-lowry/figma-plugin-ds \s HTMl/JS/CSS design system without dependencies that closesly matches the Figma UI for use in plugins
+https://github.com/thomas-lowry/figma-plugin-ds  HTMl/JS/CSS design system without dependencies that closesly matches the Figma UI for use in plugins
 
 #### Figplug
-https://github.com/rsms/figplug
-Figma plugin Builder
+https://github.com/rsms/figplug  Figma plugin Builder
 
 #### Fika
-https://github.com/mattdesl/fika
-A Figma plugin generator
+https://github.com/mattdesl/fika  A Figma plugin generator
 
 #### Figma Plugin Boilerplate
 https://github.com/figma-plus/plugin-boilerplate
