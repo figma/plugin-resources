@@ -81,6 +81,9 @@ https://github.com/nitinrgupta/figmoji
 #### Reverse layer order
 https://github.com/mikegowen/figma-reverse-layer-order
 
+### Reattach Instance
+https://github.com/renancamm/figma-reattache-instance
+
 
 
 ## Resources
