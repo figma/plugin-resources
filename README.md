@@ -84,6 +84,9 @@ https://github.com/mikegowen/figma-reverse-layer-order
 ### Reattach Instance
 https://github.com/renancamm/figma-reattache-instance
 
+### Component to page
+https://github.com/thomas-lowry/component-to-page
+
 
 
 ## Resources
