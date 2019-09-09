@@ -108,3 +108,6 @@ https://github.com/yuanqing/create-figma-plugin
 
 #### Figma Plugin React Template
 https://github.com/nirsky/figma-plugin-react-template
+
+#### Figma Plugin Vue Starter
+https://github.com/jamieecarr/figma-plugin-vue-starter
