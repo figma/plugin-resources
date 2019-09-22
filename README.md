@@ -45,7 +45,7 @@ https://github.com/Ashung/android-resources-export-figma
 #### Feather Icons
 https://github.com/feathericons/figma-feather
 
-#### Tailwind CSS 
+#### Tailwind CSS
 https://github.com/impulse/tailwindcss-figma-plugin
 
 #### Rich data plugin
@@ -81,10 +81,10 @@ https://github.com/nitinrgupta/figmoji
 #### Reverse layer order
 https://github.com/mikegowen/figma-reverse-layer-order
 
-### Reattach Instance
+#### Reattach Instance
 https://github.com/renancamm/figma-reattache-instance
 
-### Component to page
+#### Component to page
 https://github.com/thomas-lowry/component-to-page
 
 
