@@ -108,3 +108,7 @@ https://github.com/yuanqing/create-figma-plugin
 
 #### Figma Plugin React Template
 https://github.com/nirsky/figma-plugin-react-template
+
+#### Figma Plugin Vue Template
+TypeScript, RPC, components from figma-plugin-ds
+https://github.com/Morglod/figma-vue-boilerplate
