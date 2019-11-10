@@ -87,6 +87,8 @@ https://github.com/renancamm/figma-reattache-instance
 #### Component to page
 https://github.com/thomas-lowry/component-to-page
 
+#### Typograf
+https://github.com/golmakov/figma-typograf-plugin
 
 
 ## Resources
