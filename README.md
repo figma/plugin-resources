@@ -90,6 +90,9 @@ https://github.com/thomas-lowry/component-to-page
 #### Typograf
 https://github.com/golmakov/figma-typograf-plugin
 
+### Edit in place
+https://github.com/thomas-lowry/edit-in-place
+
 
 ## Resources
 
