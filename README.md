@@ -6,6 +6,7 @@ A collection of plugins that have been open-sourced.
 
 #### Image Palette
 Extracts a colour palette of 5 different colours from the selected images.
+
 [Repo](https://github.com/mattdesl/figma-plugin-palette) | [Plugin on Figma](https://www.figma.com/c/plugin/731841207668879837/Image-Palette)
 
 #### Send to top
