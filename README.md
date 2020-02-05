@@ -4,10 +4,15 @@ A list of Figma Plugins and resources for building them.
 ## Plugins
 A collection of plugins that have been open-sourced.
 
+----
+
 #### Image Palette
 Extracts a colour palette of 5 different colours from the selected images.
 
 [Repo](https://github.com/mattdesl/figma-plugin-palette) | [Plugin on Figma](https://www.figma.com/c/plugin/731841207668879837/Image-Palette)
+
+----
+
 
 #### Send to top
 https://github.com/thomas-lowry/send-to-top
