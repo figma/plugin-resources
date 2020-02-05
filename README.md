@@ -300,3 +300,10 @@ A Vue.js starter template for building Figma plugins.
 TypeScript, RPC, components from figma-plugin-ds.
 
 [Repo](https://github.com/Morglod/figma-vue-boilerplate)
+
+---
+
+#### Figma Plugin Helper Functions
+A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
+
+[Repo](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers)
