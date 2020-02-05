@@ -1,6 +1,11 @@
 # Open source Figma plugins related projects on GitHub
 A list of Figma Plugins and resources for building them.
 
+* [Plugins](#plugins — Plugin source code.
+* [Resources](#resources) — Resources for building plugins
+
+---
+
 ## Plugins
 A collection of plugins that have been open-sourced.
 
