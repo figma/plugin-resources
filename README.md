@@ -26,7 +26,7 @@ Sends selected layers to the very top of the layer stack above all other frames 
 ---
 
 #### Themer
-Enables you to create themes and easily swap between sets of styles across your projects. Eg: Light/Dark, Brand A/Brand B
+Enables you to create themes and easily swap between sets of styles across your projects. Eg: Light/Dark
 
 [Repo](https://github.com/thomas-lowry/themer) | [Plugin on Figma](https://www.figma.com/c/plugin/731176732337510831/Themer)
 
