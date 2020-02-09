@@ -11,6 +11,13 @@ A collection of plugins that have been open-sourced.
 
 ---
 
+#### Valor
+Visualise existing or new color palettes in your design system or Generate lists of color variables from color palettes.
+
+[Repo](https://github.com/kolebayev/valor) | [Plugin on Figma](https://www.figma.com/c/plugin/798588768596541799/Valor)
+
+---
+
 #### Image Palette
 Extracts a colour palette of 5 different colours from the selected images.
 
