@@ -172,6 +172,13 @@ Better Font Picker helps you select fonts with a preview of how it looks.
 
 ---
 
+#### GridGen | Automatic Table Generator
+Utilizes built-in Figma rectangles, lines, and texts to generate tables with neatly organized layers.
+
+[Repo](https://github.com/gnawx/figma-plugins/tree/master/packages/figma-gridgen) | [Plugin on Figma](https://www.figma.com/c/plugin/796759972238579874/GridGen)
+
+---
+
 #### Pattern Hero
 Pattern Hero enables you to place selected elements or frames in a grid to create patterns.
 
