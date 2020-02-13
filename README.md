@@ -130,6 +130,15 @@ Replace placeholder Figma text values with real data from real APIs.
 
 ---
 
+#### Easing Gradient
+Make beautiful smooth gradients in Figma.
+Linear gradients often have hard edges where they start and/or end.
+This plugin adds gradient stops to approximate easing functions.
+
+[Repo](https://github.com/matchai/figma-easing-gradient) | [Plugin on Figma](https://www.figma.com/c/plugin/781591244449826498/Easing-Gradient)
+
+---
+
 #### Figma Measure
 A plugin for easy measurement of sizes. A small user interface allows you to add arrows for heights and widths.
 
