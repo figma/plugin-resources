@@ -249,6 +249,15 @@ Find and fix errors in your designs for free.
 
 ---
 
+#### zebra
+Zebra is a fast, lightweight colour contrast checker.
+
+It was built as a teaching exercise and the companion tutorial can be found [here](https://alcohollick.com/writing/figma-plugin-tutorial-1-6/)
+
+[Repo](https://github.com/danhollick/zebra) | [Plugin on Figma](https://www.figma.com/c/plugin/806578669827234193/zebra)
+
+---
+
 ## Resources
 A collection of resources to help accelerate the development process of Figma Plugins.
 
