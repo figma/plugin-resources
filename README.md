@@ -349,7 +349,7 @@ A growing collection of Figma Plugin helper functions (WIP), soon to be publishe
 
 ---
 
-#### Drag and Drop Example Project
-A sample project showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
+#### Drag and Drop Example
+A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
 
 [Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
