@@ -335,7 +335,21 @@ TypeScript, RPC, components from figma-plugin-ds.
 
 ---
 
+#### Figma Plugin Vue Template 2
+Vue, TypeScript, Pug, figma-plugin-ds integration, message handlers.
+
+[Repo](https://github.com/jackiecorn/Vue-Plugin-Template)
+
+---
+
 #### Figma Plugin Helper Functions
 A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
 
 [Repo](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers)
+
+---
+
+#### Drag and Drop Example
+A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
+
+[Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
