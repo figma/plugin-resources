@@ -149,7 +149,7 @@ A plugin for easy measurement of sizes. A small user interface allows you to add
 #### Super Tidy
 A Figma plugin to easily align, rename and reorder your frames based in their canvas position.
 
-[Repo](https://www.figma.com/c/plugin/731260060173130163/Super-Tidy) | [Plugin on Figma](https://github.com/basiclines/figma-super-tidy)
+[Repo](https://github.com/basiclines/figma-super-tidy ) | [Plugin on Figma](https://www.figma.com/c/plugin/731260060173130163/Super-Tidy)
 
 ---
 
