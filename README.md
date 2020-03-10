@@ -179,6 +179,13 @@ Utilizes built-in Figma rectangles, lines, and texts to generate tables with nea
 
 ---
 
+#### Retro Snake
+Bringing the retro game we all love into Figma, Snake!
+
+[Repo](https://github.com/gnawx/figma-plugins/tree/master/packages/figma-retro-snake) | [Plugin on Figma](https://www.figma.com/community/plugin/812994090875519300/Retro-Snake)
+
+---
+
 #### Pattern Hero
 Pattern Hero enables you to place selected elements or frames in a grid to create patterns.
 
