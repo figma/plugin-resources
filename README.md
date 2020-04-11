@@ -253,6 +253,14 @@ Relink a frame to a component by searching for similar instances.
 
 ---
 
+#### Fix San Francisco
+
+This plugin won't fix the city's problems, but it will automatically apply the correct font variant and tracking for selected texts using the San Francisco typeface.
+
+[Repo](https://github.com/charliecm/figma-fix-sf) | [Plugin on Figma](https://www.figma.com/community/plugin/742063658553085504)
+
+---
+
 #### Component to page
 
 This plugin enables you to create a component (like you would in Sketch) where the master moves to a dedicated page leaving an instance in place.
