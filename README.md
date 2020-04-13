@@ -274,6 +274,13 @@ It was built as a teaching exercise and the companion tutorial can be found [her
 
 ---
 
+#### Lazy Export
+Lazy Export allows the user to quickly apply default export settings to selected objects in Figma. 
+
+[Repo](https://github.com/kocheck/Lazy-Export) | [Plugin on Figma](https://www.figma.com/community/plugin/824059814042167296/Lazy-Export)
+
+---
+
 ## Resources
 A collection of resources to help accelerate the development process of Figma Plugins.
 
