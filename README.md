@@ -205,6 +205,14 @@ Utilizes built-in Figma rectangles, lines, and texts to generate tables with nea
 
 ---
 
+#### GridMod | | Modify GridGen Tables Effortlessly
+
+Modifier for GridGen-generated tables.
+
+[Repo](https://github.com/stevahnes/figma-plugins/tree/master/packages/figma-gridmod) | [Plugin on Figma](https://www.figma.com/c/plugin/815889316898860859)
+
+---
+
 #### PageClone
 
 One-click, fuss-free tool to clone a page.
