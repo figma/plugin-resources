@@ -153,6 +153,13 @@ A Figma plugin to easily align, rename and reorder your frames based in their ca
 
 ---
 
+#### system.colors()
+Import color palettes from popular design systems directly to your file.
+
+[Repo](https://github.com/thelittlewonder/system.colors) | [Plugin on Figma](https://www.figma.com/community/plugin/832358256915224919)
+
+---
+
 #### Content Buddy
 A Figma Plugin that makes replacing text content in multiple layers super easy for anyone.
 
