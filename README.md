@@ -328,6 +328,15 @@ This template contains the react example as shown on Figma Docs, with some struc
 
 ---
 
+#### React Figma Plugin DS
+React components of Figma design system based on [thomas-lowry/figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds).
+
+[Demo](https://alexandrtovmach.github.io/react-figma-plugin-ds/)
+[Repo](https://github.com/alexandrtovmach/react-figma-plugin-ds)
+[npm](https://www.npmjs.com/package/react-figma-plugin-ds)
+
+---
+
 #### Figma Plugin Vue Starter
 A Vue.js starter template for building Figma plugins.
 
@@ -360,3 +369,4 @@ A growing collection of Figma Plugin helper functions (WIP), soon to be publishe
 A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
 
 [Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
+
