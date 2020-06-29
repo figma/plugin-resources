@@ -274,6 +274,14 @@ It was built as a teaching exercise and the companion tutorial can be found [her
 
 ---
 
+#### Styler
+This is a plugin for Figma that generates styles based on selected layers.  
+Basically, you can control your styles by changing layer properties and updating the styles.
+
+[Repo](https://github.com/andrei-inc/Styler) | [Plugin on Figma](https://www.figma.com/community/plugin/820660579767995949/Styler)
+
+---
+
 ## Resources
 A collection of resources to help accelerate the development process of Figma Plugins.
 
