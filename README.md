@@ -117,9 +117,16 @@ Quick access to Feather icons in Figma.
 ---
 
 #### Tailwind CSS
+Generate styles and other cool stuff straight out of your tailwind config file.
+
+[Repo](https://github.com/impulse/tailwindcss-figma-plugin) | [Plugin on Figma](https://www.figma.com/community/plugin/738806869514947558/Tailwind-CSS)
+
+---
+
+#### Figma Tailwindcss
 Figma Tailwindcss lets you export aspects of a design made in Figma to a javascript theme file that can easily be used with Tailwindcss.
 
-[Repo](https://github.com/impulse/tailwindcss-figma-plugin) | [Plugin on Figma](https://www.figma.com/c/plugin/785619431629077634/Figma-Tailwindcss)
+[Repo](https://github.com/jan-dh/figma-tailwindcss) | [Plugin on Figma](https://www.figma.com/c/plugin/785619431629077634/Figma-Tailwindcss)
 
 ---
 
