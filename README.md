@@ -117,9 +117,16 @@ Quick access to Feather icons in Figma.
 ---
 
 #### Tailwind CSS
+Generate styles and other cool stuff straight out of your tailwind config file.
+
+[Repo](https://github.com/impulse/tailwindcss-figma-plugin) | [Plugin on Figma](https://www.figma.com/community/plugin/738806869514947558/Tailwind-CSS)
+
+---
+
+#### Figma Tailwindcss
 Figma Tailwindcss lets you export aspects of a design made in Figma to a javascript theme file that can easily be used with Tailwindcss.
 
-[Repo](https://github.com/impulse/tailwindcss-figma-plugin) | [Plugin on Figma](https://www.figma.com/c/plugin/785619431629077634/Figma-Tailwindcss)
+[Repo](https://github.com/jan-dh/figma-tailwindcss) | [Plugin on Figma](https://www.figma.com/c/plugin/785619431629077634/Figma-Tailwindcss)
 
 ---
 
@@ -271,6 +278,13 @@ Zebra is a fast, lightweight colour contrast checker.
 It was built as a teaching exercise and the companion tutorial can be found [here](https://alcohollick.com/writing/figma-plugin-tutorial-1-6/)
 
 [Repo](https://github.com/danhollick/zebra) | [Plugin on Figma](https://www.figma.com/c/plugin/806578669827234193/zebra)
+
+---
+
+#### Lazy Export
+Lazy Export allows the user to quickly apply default export settings to selected objects in Figma. 
+
+[Repo](https://github.com/kocheck/Lazy-Export) | [Plugin on Figma](https://www.figma.com/community/plugin/824059814042167296/Lazy-Export)
 
 ---
 
