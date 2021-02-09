@@ -377,6 +377,15 @@ Vue, TypeScript, Pug, figma-plugin-ds integration, message handlers.
 
 ---
 
+#### Figma Plugin Vue3 Template
+A port of the Vue2 template, updated to use the latest Vue3 features.
+
+Vue3, TypeScript, figma-plugin-ds integration, message handlers.
+
+[Repo](https://github.com/LukeFinch/Figma-Vue3-Template)
+
+---
+
 #### Figma Plugin Helper Functions
 A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
 
