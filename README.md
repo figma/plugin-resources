@@ -288,6 +288,20 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ---
 
+#### Figma Tokens
+Figma Tokens allows you to utilize Tokens in Figma, letting you create tokens for things suchas border radii, spacing and sizing units, typography and color styles.
+
+[Repo](https://github.com/six7/figma-tokens) | [Plugin on Figma](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
+
+---
+
+#### Batch Styler
+Batch Styler is a plugin allowing you to edit multiple text or color styles at once.
+
+[Repo](https://github.com/six7/figma-batch-styler) | [Plugin on Figma](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler)
+
+---
+
 ## Resources
 A collection of resources to help accelerate the development process of Figma Plugins.
 
