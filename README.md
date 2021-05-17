@@ -160,6 +160,13 @@ A Figma plugin to easily align, rename and reorder your frames based in their ca
 
 ---
 
+#### system.colors()
+Import color palettes from popular design systems directly to your file.
+
+[Repo](https://github.com/thelittlewonder/system.colors) | [Plugin on Figma](https://www.figma.com/community/plugin/832358256915224919)
+
+---
+
 #### Content Buddy
 A Figma Plugin that makes replacing text content in multiple layers super easy for anyone.
 
@@ -296,6 +303,20 @@ Basically, you can control your styles by changing layer properties and updating
 
 ---
 
+#### Figma Tokens
+Figma Tokens allows you to utilize Tokens in Figma, letting you create tokens for things suchas border radii, spacing and sizing units, typography and color styles.
+
+[Repo](https://github.com/six7/figma-tokens) | [Plugin on Figma](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
+
+
+
+#### Batch Styler
+Batch Styler is a plugin allowing you to edit multiple text or color styles at once.
+
+[Repo](https://github.com/six7/figma-batch-styler) | [Plugin on Figma](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler)
+
+---
+
 ## Resources
 A collection of resources to help accelerate the development process of Figma Plugins.
 
@@ -371,6 +392,15 @@ Vue, TypeScript, Pug, figma-plugin-ds integration, message handlers.
 
 ---
 
+#### Figma Plugin Vue3 Template
+A port of the Vue2 template, updated to use the latest Vue3 features.
+
+Vue3, TypeScript, figma-plugin-ds integration, message handlers.
+
+[Repo](https://github.com/LukeFinch/Figma-Vue3-Template)
+
+---
+
 #### Figma Plugin Helper Functions
 A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
 
@@ -382,3 +412,10 @@ A growing collection of Figma Plugin helper functions (WIP), soon to be publishe
 A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
 
 [Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
+
+---
+
+#### Figma Remove.bg Plugin
+Remove background of images with just 1-click
+
+[Repo](https://github.com/aaroniker/figma-remove-bg)
