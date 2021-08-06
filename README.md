@@ -343,6 +343,13 @@ This is a Svelte version of the Figma Plugin DS specifically for use in creating
 
 ---
 
+#### Figma Plugin Template
+This is a Figma plugin template using rollup and svelte. TS and SCSS support included 🤙
+
+[Repo](https://github.com/tomquinonero/figma-plugin-template)
+
+---
+
 #### Figplug
 Figma plugin Builder
 
