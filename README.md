@@ -428,3 +428,10 @@ A sample plugin showing a reliable way to implement drag and drop from the plugi
 Remove background of images with just 1-click
 
 [Repo](https://github.com/aaroniker/figma-remove-bg)
+
+---
+
+#### Create React Figma Plugin
+A CLI tool to generate a Figma plugin project with React. Supports CSS modules, Typescript & SCSS and UI can be viewed in browser for quicker iteration.
+
+[Repo](https://github.com/mtmeyer/create-react-figma-plugin) | [npm](https://www.npmjs.com/package/@mtmeyer/create-react-figma-plugin)
