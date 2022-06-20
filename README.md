@@ -315,6 +315,12 @@ Batch Styler is a plugin allowing you to edit multiple text or color styles at o
 
 [Repo](https://github.com/six7/figma-batch-styler) | [Plugin on Figma](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler)
 
+
+#### 3dicons
+Use 1400+ 3dicons within Figma or Figjam files quickly. The icons can be searched and filtered by color and angle.
+
+[Repo](https://github.com/realvjy/3dicons-figma) | [Plugin on Figma]([https://www.figma.com/community/plugin/818203235789864127/Batch-Styler](https://www.figma.com/community/plugin/1107546399747513238))
+
 ---
 
 ## Resources
