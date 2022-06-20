@@ -308,18 +308,19 @@ Figma Tokens allows you to utilize Tokens in Figma, letting you create tokens fo
 
 [Repo](https://github.com/six7/figma-tokens) | [Plugin on Figma](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
 
-
+---
 
 #### Batch Styler
 Batch Styler is a plugin allowing you to edit multiple text or color styles at once.
 
 [Repo](https://github.com/six7/figma-batch-styler) | [Plugin on Figma](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler)
 
+---
 
 #### 3dicons
 Use 1400+ 3dicons within Figma or Figjam files quickly. The icons can be searched and filtered by color and angle.
 
-[Repo](https://github.com/realvjy/3dicons-figma) | [Plugin on Figma]([https://www.figma.com/community/plugin/818203235789864127/Batch-Styler](https://www.figma.com/community/plugin/1107546399747513238))
+[Repo](https://github.com/realvjy/3dicons-figma) | [Plugin on Figma](https://www.figma.com/community/plugin/1107546399747513238)
 
 ---
 
