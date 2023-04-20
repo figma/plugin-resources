@@ -49,14 +49,6 @@ These starter templates package the boilerplate needed to develop plugins and wi
 
 ---
 
-#### Create Figma Plugin
-
-[SOURCE CODE](https://github.com/yuanqing/create-figma-plugin) · [MIT](https://github.com/yuanqing/create-figma-plugin/blob/main/LICENSE.md)
-
-🔋 The comprehensive toolkit for developing plugins and widgets for Figma and FigJam
-
----
-
 #### FigPlug
 
 [SOURCE CODE](https://github.com/rsms/figplug) · [MIT](https://github.com/rsms/figplug/blob/master/LICENSE)
