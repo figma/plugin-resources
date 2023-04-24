@@ -30,7 +30,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
     ```
     #### RESOURCE_NAME
-    RESOURCE_NAME • [SOURCE CODE](GITHUB_URL) • [LICENSE_TYPE](LICENSE_URL)
+    [SOURCE CODE](GITHUB_URL) • [LICENSE_TYPE](LICENSE_URL)
 
     Resource Description
     ```
@@ -40,7 +40,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
     ```
     #### Plugin Name
 
-    PLUGIN_NAME  • [SOURCE CODE](GITHUB_URL) • [PLUGIN](FIGMA_PLUGIN_URL) • [LICENSE_TYPE](LICENSE_URL)
+    [SOURCE CODE](GITHUB_URL) • [PLUGIN](FIGMA_PLUGIN_URL) • [LICENSE_TYPE](LICENSE_URL)
 
     Plugin Description
     ```

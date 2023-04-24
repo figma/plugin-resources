@@ -301,6 +301,12 @@ Quick access to Feather icons in Figma.
 
 ---
 
+#### Iconify
+
+[SOURCE CODE](https://github.com/iconify/iconify-figma) • [PLUGIN](https://www.figma.com/community/plugin/735098390272716381/Iconify) • [APACHE LICENSE 2.0](https://github.com/iconify/iconify-figma/blob/main/license.txt)
+
+Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) to Figma document as vector shapes.
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Maps
