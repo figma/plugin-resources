@@ -24,6 +24,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - A code license like MIT is acceptable.
   - Place a file named `license` or `LICENSE` in the repo root with the license text.
 - [ ] The repo should have `figma` & `figma-plugin` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics including `figma-widget` or `figma-api` if relevant.
+- [ ] By submitting a link you represent that to the best of your knowledge you are not infringing another party's intellectual party.
 - [ ] Your entry should be in the following format
 
   - Resource:
