@@ -199,6 +199,14 @@ Visualise existing or new color palettes in your design system or Generate lists
 
 ---
 
+#### Lucidi
+
+[SOURCE CODE](https://github.com/dimuuu/lucidi) · [PLUGIN](https://www.figma.com/community/plugin/1235943434768675768) · [CC0](https://github.com/dimuuu/lucidi/blob/main/LICENSE)
+
+Create & sync opacity styles based on primary opaque color styles.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Design Linters
