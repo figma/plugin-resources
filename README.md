@@ -321,6 +321,15 @@ Quick access to Feather icons in Figma.
 
 Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) to Figma document as vector shapes.
 
+---
+#### 3dicons
+
+[SOURCE CODE](https://github.com/realvjy/3dicons-figma) • [PLUGIN](https://www.figma.com/community/plugin/1107546399747513238) • [MIT](https://github.com/realvjy/3dicons-figma/blob/main/LICENSE)
+
+Collection 1400+ 3dicons. You can use within Figma or Figjam files quickly. The icons can be searched and filtered by color and angle.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Maps
