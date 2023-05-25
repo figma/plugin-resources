@@ -434,6 +434,14 @@ Figma plugin for making good typographic text.
 
 ---
 
+#### Tolgee
+
+[SOURCE CODE](https://github.com/tolgee/figma-plugin) • [PLUGIN](https://www.figma.com/community/plugin/1212381421658754793/Tolgee-localization) • [MIT](https://github.com/tolgee/figma-plugin/blob/main/LICENSE)
+
+Easily manage translations within your Figma design files by connecting Figma with Tolgee localization platform.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Utilities
