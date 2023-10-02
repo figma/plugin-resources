@@ -1,8 +1,8 @@
 <div align='center'>
 
-# Open Source Resources for Figma Plugin Development
+# Open Source Resources for Figma Plugin and Widget Development
 
-_A collection of open source plugins and resources for Figma + FigJam that have been shared on GitHub._
+_A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub._
 
 </div>
 
@@ -16,7 +16,7 @@ The resources provided are meant to be helpful for Figma plugin and widget devel
 
 ## Table of Contents
 
-- [Resources](#resources) -- Resources for building plugins
+- [Resources](#resources) -- Resources for building plugins and widgets
   - [Starter Templates](#starter-templates)
   - [Design System Components](#design-system-components)
   - [Helper Functions](#helper-functions)
@@ -34,12 +34,13 @@ The resources provided are meant to be helpful for Figma plugin and widget devel
   - [Text](#text)
   - [Utilities](#utilities)
   - [Misc](#misc)
+- [Widgets](#widgets) -- Widget Source Code
 
 ---
 
 ## Resources
 
-A collection of resources to help accelerate the development process of Figma Plugins.
+A collection of resources to help accelerate the development process of Figma plugins and widgets.
 
 ---
 
@@ -322,6 +323,7 @@ Quick access to Feather icons in Figma.
 Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) to Figma document as vector shapes.
 
 ---
+
 #### 3dicons
 
 [SOURCE CODE](https://github.com/realvjy/3dicons-figma) • [PLUGIN](https://www.figma.com/community/plugin/1107546399747513238) • [MIT](https://github.com/realvjy/3dicons-figma/blob/main/LICENSE)
@@ -569,6 +571,12 @@ Enables the user to quickly sort the order of layers based on position, name (al
 [SOURCE CODE](https://github.com/gnawx/figma-plugins/tree/master/packages/figma-retro-snake) · [PLUGIN](https://www.figma.com/community/plugin/812994090875519300/Retro-Snake) · [MIT](https://github.com/stevahnes/figma-plugins/blob/master/LICENSE)
 
 Bringing the retro game we all love into Figma, Snake!
+
+---
+
+## Widgets
+
+A collection of widgets that have been open-sourced. You can install these widgets, audit them or fork your own if you want to host your own.
 
 ---
 
