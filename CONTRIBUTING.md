@@ -39,9 +39,19 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - Plugin:
 
     ```
-    #### Plugin Name
+    #### PLUGIN_NAME
 
     [SOURCE CODE](GITHUB_URL) • [PLUGIN](FIGMA_PLUGIN_URL) • [LICENSE_TYPE](LICENSE_URL)
 
     Plugin Description
+    ```
+
+  - Widget:
+
+    ```
+    #### WIDGET_NAME
+
+    [SOURCE CODE](GITHUB_URL) • [WIDGET](FIGMA_WIDGET_URL) • [LICENSE_TYPE](LICENSE_URL)
+
+    Widget Description
     ```
