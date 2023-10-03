@@ -23,7 +23,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
     - Tip: You can quickly add it to your repo by going to this URL: `https://github.com/<user>/<repo>/community/license/new?branch=main&template=cc0-1.0` (replace `<user>` and `<repo>` accordingly).
   - A code license like MIT is acceptable.
   - Place a file named `license` or `LICENSE` in the repo root with the license text.
-- [ ] The repo should have `figma` & `figma-plugin` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics including `figma-widget` or `figma-api` if relevant.
+- [ ] The repo should have `figma` & `figma-plugin` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics including `figma-widget` or `figma-api` if applicable.
 - [ ] By submitting a link you represent that to the best of your knowledge you are not infringing another party's intellectual party.
 - [ ] Your entry should be in the following format
 
@@ -39,9 +39,19 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - Plugin:
 
     ```
-    #### Plugin Name
+    #### PLUGIN_NAME
 
     [SOURCE CODE](GITHUB_URL) • [PLUGIN](FIGMA_PLUGIN_URL) • [LICENSE_TYPE](LICENSE_URL)
 
     Plugin Description
+    ```
+
+  - Widget:
+
+    ```
+    #### WIDGET_NAME
+
+    [SOURCE CODE](GITHUB_URL) • [WIDGET](FIGMA_WIDGET_URL) • [LICENSE_TYPE](LICENSE_URL)
+
+    Widget Description
     ```
