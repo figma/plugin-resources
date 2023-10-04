@@ -570,6 +570,12 @@ Enables the user to quickly sort the order of layers based on position, name (al
 
 ---
 
+#### Randomiser
+
+[SOURCE CODE](https://github.com/niyamax/Figma-Randomiser) • [PLUGIN](https://www.figma.com/community/plugin/1189284785668093844/randomiser) • [CC0-1.0](https://github.com/niyamax/Figma-Randomiser/blob/main/LICENSE)
+
+A Figma plugin which helps the users to randomise the size, position and color of the elements with in a frame
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Misc
