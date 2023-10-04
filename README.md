@@ -276,6 +276,14 @@ Generate styles and other cool stuff straight out of your tailwind config file.
 
 ---
 
+#### Figma to Boostrap 5 Plugin
+
+[SOURCE CODE](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin) · [PLUGIN](https://www.figma.com/community/plugin/1287660587112027215/figma-to-bootstrap-5-plugin) · [GPLv3](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin/blob/main/LICENSE)
+
+Turn your Figma designs into Bootstrap 5 snippets! It generates bootstrap 5 grid, borders and utilities.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Export
