@@ -544,6 +544,14 @@ Pattern Hero enables you to place selected elements or frames in a grid to creat
 
 ---
 
+#### Randomiser
+
+[SOURCE CODE](https://github.com/niyamax/Figma-Randomiser) • [PLUGIN](https://www.figma.com/community/plugin/1189284785668093844/randomiser) • [CC0-1.0](https://github.com/niyamax/Figma-Randomiser/blob/main/LICENSE)
+
+A Figma plugin which helps the users to randomise the size, position and color of the elements with in a frame
+
+---
+
 #### Reattach Instance
 
 [SOURCE CODE](https://github.com/renancamm/figma-reattache-instance) · [PLUGIN](https://www.figma.com/c/plugin/741415678427267506/Reattach-Instance) · [MIT](https://github.com/renancamm/figma-reattache-instance/blob/master/LICENSE)
