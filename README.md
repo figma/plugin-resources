@@ -148,6 +148,14 @@ Zebra is a fast, lightweight colour contrast checker.
 
 ---
 
+#### Polychrom
+
+[SOURCE CODE](https://github.com/evilmartians/figma-polychrom) · [PLUGIN](https://www.figma.com/community/plugin/1281280685402026529/polychrom) · [MIT](https://github.com/evilmartians/figma-polychrom/blob/main/LICENSE)
+
+Polychrom is a Figma plugin that allows users to measure contrast levels between selected layers, providing instant feedback. It uses the APCA method to determine contrast, provides text size recommendations, and converts colors to various formats, including OKLCH, RGB, and HEX for easy CSS code copying.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Color
