@@ -269,6 +269,13 @@ Tokens Studio for Figma is a plugin for Figma allowing you to define and use des
 
 ---
 
+#### Design Tokens
+[SOURCE CODE](https://github.com/lukasoppermann/design-tokens) · [PLUGIN](https://www.figma.com/community/plugin/888356646278934516/design-tokens) · [MIT](https://github.com/lukasoppermann/design-tokens/blob/main/LICENSE)
+
+Design Tokens is a Figma Plugin that allows you export design tokens into a json format, allowing you to transform them to different languages and platforms for web, iOS, and Android.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Developer Tools
