@@ -20,7 +20,7 @@ The resources provided are meant to be helpful for Figma plugin and widget devel
   - [Starter Templates](#starter-templates)
   - [Design System Components](#design-system-components)
   - [Helper Functions](#helper-functions)
-  - [CI/CD Release Tools](#ci/cd-release-tools)
+  - [CI/CD Release Tools](#cicd-release-tools)
 - [Plugins](#plugins) -- Plugin Source Code
   - [Accessibility](#accessibility)
   - [Color](#color)
