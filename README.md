@@ -245,6 +245,14 @@ Find and fix errors in your designs for free.
 
 ### Design Systems
 
+#### Design Tokens
+
+[SOURCE CODE](https://github.com/lukasoppermann/design-tokens) · [PLUGIN](https://www.figma.com/community/plugin/888356646278934516/design-tokens) · [MIT](https://github.com/lukasoppermann/design-tokens/blob/main/LICENSE)
+
+Design Tokens is a Figma Plugin that allows you export design tokens into a json format, allowing you to transform them to different languages and platforms for web, iOS, and Android.
+
+---
+
 #### Styler
 
 [SOURCE CODE](https://github.com/andrei-inc/Styler) · [PLUGIN](https://www.figma.com/community/plugin/820660579767995949/Styler) · [MIT](https://github.com/andreincu/Styler/blob/master/LICENSE)
@@ -266,13 +274,6 @@ A Figma plugin designed to allow you to swap between styles named the same from 
 [SOURCE CODE](https://github.com/six7/figma-tokens) · [PLUGIN](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) · [MIT](https://github.com/tokens-studio/figma-plugin/blob/main/LICENSE.md)
 
 Tokens Studio for Figma is a plugin for Figma allowing you to define and use design tokens in Figma. You can store your design tokens in JSON, sync them with a sync provider such as GitHub and define tokens even for properties that have no native support yet in Figma, such as borderRadius or spacing.
-
----
-
-#### Design Tokens
-[SOURCE CODE](https://github.com/lukasoppermann/design-tokens) · [PLUGIN](https://www.figma.com/community/plugin/888356646278934516/design-tokens) · [MIT](https://github.com/lukasoppermann/design-tokens/blob/main/LICENSE)
-
-Design Tokens is a Figma Plugin that allows you export design tokens into a json format, allowing you to transform them to different languages and platforms for web, iOS, and Android.
 
 ---
 
