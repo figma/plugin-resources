@@ -245,6 +245,14 @@ Find and fix errors in your designs for free.
 
 ### Design Systems
 
+#### Design Tokens
+
+[SOURCE CODE](https://github.com/lukasoppermann/design-tokens) · [PLUGIN](https://www.figma.com/community/plugin/888356646278934516/design-tokens) · [MIT](https://github.com/lukasoppermann/design-tokens/blob/main/LICENSE)
+
+Design Tokens is a Figma Plugin that allows you export design tokens into a json format, allowing you to transform them to different languages and platforms for web, iOS, and Android.
+
+---
+
 #### Styler
 
 [SOURCE CODE](https://github.com/andrei-inc/Styler) · [PLUGIN](https://www.figma.com/community/plugin/820660579767995949/Styler) · [MIT](https://github.com/andreincu/Styler/blob/master/LICENSE)
