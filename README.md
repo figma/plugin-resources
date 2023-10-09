@@ -101,7 +101,6 @@ Figma Plugin DS components made with Svelte
 
 ---
 
-**[⬆ Back to TOC](#table-of-contents)**
 
 #### Figma Plugin DS
 
@@ -588,8 +587,6 @@ Relink a frame to a component by searching for similar instances.
 Figma plugin to reverse the order of the selected layers.
 
 ---
-
-**[⬆ Back to TOC](#table-of-contents)**
 
 #### Send to top
 
