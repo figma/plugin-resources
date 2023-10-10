@@ -101,7 +101,6 @@ Figma Plugin DS components made with Svelte
 
 ---
 
-
 #### Figma Plugin DS
 
 [SOURCE CODE](https://github.com/thomas-lowry/figma-plugin-ds) · [MIT](https://github.com/thomas-lowry/figma-plugin-ds/blob/master/LICENSE)
@@ -138,7 +137,7 @@ A collection of useful helper functions to import to your Figma plugin project
 
 [SOURCE CODE](https://github.com/parrot-global/figcd) · [MIT](https://github.com/evilmartians/figma-polychrom/blob/main/LICENSE)
 
-A CLI tool for seamless continuous delivery of Figma plugins. Inspired by Fastlane, figcd streamlines the manual process of publishing Figma plugins. 
+A CLI tool for seamless continuous delivery of Figma plugins. Inspired by Fastlane, figcd streamlines the manual process of publishing Figma plugins.
 
 **[⬆ Back to TOC](#table-of-contents)**
 
@@ -152,19 +151,19 @@ A collection of plugins that have been open-sourced. You can install these plugi
 
 ### Accessibility
 
-#### zebra
-
-[SOURCE CODE](https://github.com/danhollick/zebra) · [PLUGIN](https://www.figma.com/c/plugin/806578669827234193/zebra) · NO LICENSE
-
-Zebra is a fast, lightweight colour contrast checker.
-
----
-
 #### Polychrom
 
 [SOURCE CODE](https://github.com/evilmartians/figma-polychrom) · [PLUGIN](https://www.figma.com/community/plugin/1281280685402026529/polychrom) · [MIT](https://github.com/evilmartians/figma-polychrom/blob/main/LICENSE)
 
 Polychrom is a Figma plugin that allows users to measure contrast levels between selected layers, providing instant feedback. It uses the APCA method to determine contrast, provides text size recommendations, and converts colors to various formats, including OKLCH, RGB, and HEX for easy CSS code copying.
+
+---
+
+#### zebra
+
+[SOURCE CODE](https://github.com/danhollick/zebra) · [PLUGIN](https://www.figma.com/c/plugin/806578669827234193/zebra) · NO LICENSE
+
+Zebra is a fast, lightweight colour contrast checker.
 
 ---
 
@@ -196,6 +195,14 @@ Make beautiful smooth gradients in Figma. Linear gradients often have hard edges
 
 ---
 
+#### Lucidi
+
+[SOURCE CODE](https://github.com/dimuuu/lucidi) · [PLUGIN](https://www.figma.com/community/plugin/1235943434768675768) · [CC0](https://github.com/dimuuu/lucidi/blob/main/LICENSE)
+
+Create & sync opacity styles based on primary opaque color styles.
+
+---
+
 #### Navigator
 
 [SOURCE CODE](https://github.com/kaleidocode-app/navigator) · [PLUGIN](https://www.figma.com/c/plugin/739558587628004077/Navigator) · NO LICENSE
@@ -217,14 +224,6 @@ Import color palettes from popular design systems directly to your file.
 [SOURCE CODE](https://github.com/kolebayev/valor-figma-plugin) · [PLUGIN](https://www.figma.com/community/plugin/798588768596541799/Valor) · NO LICENSE
 
 Visualise existing or new color palettes in your design system or Generate lists of color variables from color palettes.
-
----
-
-#### Lucidi
-
-[SOURCE CODE](https://github.com/dimuuu/lucidi) · [PLUGIN](https://www.figma.com/community/plugin/1235943434768675768) · [CC0](https://github.com/dimuuu/lucidi/blob/main/LICENSE)
-
-Create & sync opacity styles based on primary opaque color styles.
 
 ---
 
@@ -280,6 +279,14 @@ Tokens Studio for Figma is a plugin for Figma allowing you to define and use des
 
 ### Developer Tools
 
+#### Figma to Boostrap 5 Plugin
+
+[SOURCE CODE](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin) · [PLUGIN](https://www.figma.com/community/plugin/1287660587112027215/figma-to-bootstrap-5-plugin) · [GPLv3](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin/blob/main/LICENSE)
+
+Turn your Figma designs into Bootstrap 5 snippets! It generates bootstrap 5 grid, borders and utilities.
+
+---
+
 #### Figma Tailwindcss
 
 [SOURCE CODE](https://github.com/jan-dh/figma-tailwindcss) · [PLUGIN](https://www.figma.com/c/plugin/785619431629077634/Figma-Tailwindcss) · NO LICENSE
@@ -301,14 +308,6 @@ Convert VS Code themes to Figma color libraries, create new themes via JSON, and
 [SOURCE CODE](https://github.com/impulse/tailwindcss-figma-plugin) · [PLUGIN](https://www.figma.com/community/plugin/738806869514947558/Tailwind-CSS) · [MIT](https://github.com/ecklf/tailwindcss-figma-plugin/blob/main/LICENSE)
 
 Generate styles and other cool stuff straight out of your tailwind config file.
-
----
-
-#### Figma to Boostrap 5 Plugin
-
-[SOURCE CODE](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin) · [PLUGIN](https://www.figma.com/community/plugin/1287660587112027215/figma-to-bootstrap-5-plugin) · [GPLv3](https://github.com/gabrielrbarbosa/figma-to-bootstrap-plugin/blob/main/LICENSE)
-
-Turn your Figma designs into Bootstrap 5 snippets! It generates bootstrap 5 grid, borders and utilities.
 
 ---
 
@@ -344,6 +343,14 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ### Icons
 
+#### 3dicons
+
+[SOURCE CODE](https://github.com/realvjy/3dicons-figma) • [PLUGIN](https://www.figma.com/community/plugin/1107546399747513238) • [MIT](https://github.com/realvjy/3dicons-figma/blob/main/LICENSE)
+
+Collection 1400+ 3dicons. You can use within Figma or Figjam files quickly. The icons can be searched and filtered by color and angle.
+
+---
+
 #### Feather Icons
 
 [SOURCE CODE](https://github.com/feathericons/figma-feather) · [PLUGIN](https://www.figma.com/c/plugin/744047966581015514/Feather-Icons) · NO LICENSE
@@ -357,14 +364,6 @@ Quick access to Feather icons in Figma.
 [SOURCE CODE](https://github.com/iconify/iconify-figma) • [PLUGIN](https://www.figma.com/community/plugin/735098390272716381/Iconify) • [APACHE LICENSE 2.0](https://github.com/iconify/iconify-figma/blob/main/license.txt)
 
 Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) to Figma document as vector shapes.
-
----
-
-#### 3dicons
-
-[SOURCE CODE](https://github.com/realvjy/3dicons-figma) • [PLUGIN](https://www.figma.com/community/plugin/1107546399747513238) • [MIT](https://github.com/realvjy/3dicons-figma/blob/main/LICENSE)
-
-Collection 1400+ 3dicons. You can use within Figma or Figjam files quickly. The icons can be searched and filtered by color and angle.
 
 ---
 
@@ -464,19 +463,19 @@ A Figma Plugin that makes replacing text content in multiple layers super easy f
 
 ---
 
-#### Typograf
-
-[SOURCE CODE](https://github.com/golmakov/figma-typograf-plugin) · [PLUGIN](https://www.figma.com/c/plugin/745519632050796775/Typograf) · NO LICENSE
-
-Figma plugin for making good typographic text.
-
----
-
 #### Tolgee
 
 [SOURCE CODE](https://github.com/tolgee/figma-plugin) • [PLUGIN](https://www.figma.com/community/plugin/1212381421658754793/Tolgee-localization) • [MIT](https://github.com/tolgee/figma-plugin/blob/main/LICENSE)
 
 Easily manage translations within your Figma design files by connecting Figma with Tolgee localization platform.
+
+---
+
+#### Typograf
+
+[SOURCE CODE](https://github.com/golmakov/figma-typograf-plugin) · [PLUGIN](https://www.figma.com/c/plugin/745519632050796775/Typograf) · NO LICENSE
+
+Figma plugin for making good typographic text.
 
 ---
 
