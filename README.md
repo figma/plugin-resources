@@ -340,6 +340,14 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ---
 
+#### Image Minifire
+
+[SOURCE CODE](https://github.com/zendyani/figma-image-compression) · [PLUGIN](https://www.figma.com/community/plugin/1284557222547216612/image-minifire) · [MIT](https://github.com/zendyani/figma-image-compression/blob/main/LICENSE)
+
+Image Minifire allows the user to compress and export images of a selected frame in Figma.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Icons
