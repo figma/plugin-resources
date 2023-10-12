@@ -15,7 +15,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - ✅ `- A Figma plugin for creating bulk color styles from selection.`
   - ❌ `- The best Figma plugin`
   - ❌ `- This resource will change your life.`
-- [ ] Your entry should be added to the appropriate category sorted in alphabetic order.
+- [ ] Your entry should be added to the appropriate category sorted in alphabetical order.
 - [ ] Your entry should be in the following format.
 - [ ] Your entry is an active project - outdated projects will not be accepted.
 - [ ] If possible, your resource should have an appropriate license.
