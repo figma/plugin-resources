@@ -332,19 +332,19 @@ Easily export assets from Figma directly into a .zip file.
 
 ---
 
-#### Lazy Export
-
-[SOURCE CODE](https://github.com/kocheck/Lazy-Export) · [PLUGIN](https://www.figma.com/community/plugin/824059814042167296/Lazy-Export) · [MIT](https://github.com/kocheck/Lazy-Export/blob/production/LICENSE)
-
-Lazy Export allows the user to quickly apply default export settings to selected objects in Figma.
-
----
-
 #### Image Minifire
 
 [SOURCE CODE](https://github.com/zendyani/figma-image-compression) · [PLUGIN](https://www.figma.com/community/plugin/1284557222547216612/image-minifire) · [MIT](https://github.com/zendyani/figma-image-compression/blob/main/LICENSE)
 
 Image Minifire allows the user to compress and export images of a selected frame in Figma.
+
+---
+
+#### Lazy Export
+
+[SOURCE CODE](https://github.com/kocheck/Lazy-Export) · [PLUGIN](https://www.figma.com/community/plugin/824059814042167296/Lazy-Export) · [MIT](https://github.com/kocheck/Lazy-Export/blob/production/LICENSE)
+
+Lazy Export allows the user to quickly apply default export settings to selected objects in Figma.
 
 ---
 
