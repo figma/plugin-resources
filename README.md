@@ -344,11 +344,27 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ### Icons
 
+#### Flaticon
+
+[SOURCE CODE](https://github.com/freepik-company/flaticon-uicons) · [PLUGIN](https://www.figma.com/community/plugin/1183020129233350982/flaticon-by-freepik) · [MIT](https://github.com/freepik-company/flaticon-uicons/blob/main/LICENSE)
+
+Access the most extensive icon library directly in Figma. Search and filter through millions of icons.
+
+---
+
 #### Feather Icons
 
 [SOURCE CODE](https://github.com/feathericons/figma-feather) · [PLUGIN](https://www.figma.com/c/plugin/744047966581015514/Feather-Icons) · NO LICENSE
 
 Quick access to Feather icons in Figma.
+
+---
+
+#### Font-Awesome
+
+[SOURCE CODE](https://github.com/FortAwesome/Font-Awesome) • [PLUGIN](https://www.figma.com/community/plugin/774202616885508874/font-awesome-icons) • [MIT](https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt)
+
+Provides a variety of features for working with Font Awesome icons in Figma, such as the ability to insert icons from the Font Awesome library, change the icon size, color, and rotation, and generate icon components for different frameworks.
 
 ---
 
