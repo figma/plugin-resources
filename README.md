@@ -612,6 +612,14 @@ Enables the user to quickly sort the order of layers based on position, name (al
 
 ---
 
+#### Variables Import
+
+[SOURCE CODE](https://github.com/microsoft/figma-variables-import) • [PLUGIN](https://www.figma.com/community/plugin/1253424530216967528/variables-import) • [MIT](https://github.com/microsoft/figma-variables-import/blob/main/LICENSE.txt)
+
+The plugin allows import of design token as Figma variables. Note the parser is not fully compliant and does not support every token in the DTCG format.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Misc
