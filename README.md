@@ -135,7 +135,7 @@ A collection of useful helper functions to import to your Figma plugin project
 
 #### figcd
 
-[SOURCE CODE](https://github.com/parrot-global/figcd) · [MIT](https://github.com/evilmartians/figma-polychrom/blob/main/LICENSE)
+[SOURCE CODE](https://github.com/parrot-global/figcd) · [MIT](https://github.com/parrot-global/figcd/blob/main/LICENSE)
 
 A CLI tool for seamless continuous delivery of Figma plugins. Inspired by Fastlane, figcd streamlines the manual process of publishing Figma plugins.
 
