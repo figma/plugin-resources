@@ -151,6 +151,15 @@ A collection of plugins that have been open-sourced. You can install these plugi
 
 ### Accessibility
 
+#### Include
+[SOURCE CODE](https://github.com/eBay/figma-include-accessibility-annotations) · [PLUGIN](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations) · [APACHE LICENSE 2.0](https://github.com/eBay/figma-include-accessibility-annotations/blob/main/LICENSE)
+
+Include is a Figma plugin that simplifies annotating for accessibility (a11y). It makes it easier for designers to spec and easier for developers to understand what is required.
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+---
+
 #### Polychrom
 
 [SOURCE CODE](https://github.com/evilmartians/figma-polychrom) · [PLUGIN](https://www.figma.com/community/plugin/1281280685402026529/polychrom) · [MIT](https://github.com/evilmartians/figma-polychrom/blob/main/LICENSE)
