@@ -121,6 +121,14 @@ React components of Figma design system
 
 ### Helper Functions
 
+#### figma-await-ipc
+
+[SOURCE CODE](https://github.com/fwextensions/figma-await-ipc) · [MIT](https://github.com/fwextensions/figma-await-ipc/blob/main/LICENSE)
+
+A simple `await`-able replacement for `postMessage()` in Figma plugins.
+
+---
+
 #### Figma Plugin Helpers
 
 [SOURCE CODE](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) · NO LICENSE
