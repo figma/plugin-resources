@@ -89,6 +89,14 @@ A Figma plugin template using svelte. SCSS and Typescript support
 
 ---
 
+#### fwidgets
+
+[SOURCE CODE](https://github.com/fwextensions/fwidgets) · [MIT](https://github.com/fwextensions/fwidgets/blob/main/LICENSE)
+
+The fastest way to create a Figma plugin UI — with zero UI code.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Design System Components
