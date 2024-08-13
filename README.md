@@ -101,6 +101,12 @@ The fastest way to create a Figma plugin UI — with zero UI code.
 
 ### Design System Components
 
+#### Figma Kit
+
+[SOURCE CODE](https://github.com/tigranpetrossian/figma-kit) · [MIT](https://github.com/tigranpetrossian/figma-kit/blob/beta/LICENSE)
+
+An extensive set of React components for building Figma plugins. UI3-ready, first-class Tailwind support.
+
 #### Figma Plugin DS Svelte
 
 [SOURCE CODE](https://github.com/thomas-lowry/figma-plugin-ds-svelte) · [MIT](https://github.com/thomas-lowry/figma-plugin-ds-svelte/blob/master/LICENSE)
