@@ -377,6 +377,14 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ---
 
+#### Figma Sprite Generator
+
+[SOURCE CODE](https://github.com/omidnikrah/figma-sprite-generator) · [PLUGIN](https://www.figma.com/community/plugin/1424139256012895014/goodway-sprite) · [MIT](https://github.com/omidnikrah/figma-sprite-generator/blob/main/LICENSE)
+
+A Figma plugin to generate sprite sheets and JSON files from selected icons.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Icons
