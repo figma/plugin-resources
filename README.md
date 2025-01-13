@@ -445,6 +445,14 @@ Create maps with Figma.
 
 ### Organization
 
+#### Cover Maker
+
+[SOURCE CODE](https://github.com/planetabhi/figma-cover-maker) · [MIT](https://github.com/planetabhi/figma-cover-maker/blob/main/LICENSE.txt)
+
+A simple cover generator for Figma.
+
+---
+
 #### Figma Format
 
 [SOURCE CODE](https://github.com/kawamurakazushi/figma-format) · [PLUGIN](https://www.figma.com/c/plugin/732774680197470712/Figma-Format) · [MIT](https://github.com/kawamurakazushi/figma-format/blob/master/LICENSE)
