@@ -657,6 +657,14 @@ The plugin allows import of design token as Figma variables. Note the parser is 
 
 ---
 
+#### Emoji Pattern Generator
+
+[SOURCE CODE](https://github.com/niyamax/figma-emoji-pattern-generator) • [PLUGIN](https://www.figma.com/community/plugin/1307592924492712453/emoji-pattern-generator) • [MIT](https://github.com/niyamax/figma-emoji-pattern-generator/blob/main/LICENSE)
+
+A Figma plugin that generates beautiful patterns using emojis. Create unique designs with different pattern styles and emoji combinations.
+
+---
+
 **[⬆ Back to TOC](#table-of-contents)**
 
 ### Misc
