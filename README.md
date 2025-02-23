@@ -553,6 +553,14 @@ Select any instance of a local component and edit the master component in place 
 
 ---
 
+#### Emoji Pattern Generator
+
+[SOURCE CODE](https://github.com/niyamax/figma-emoji-pattern-generator) • [PLUGIN](https://www.figma.com/community/plugin/1307592924492712453/emoji-pattern-generator) • [MIT](https://github.com/niyamax/figma-emoji-pattern-generator/blob/main/LICENSE)
+
+A Figma plugin that generates beautiful patterns using emojis. Create unique designs with different pattern styles and emoji combinations.
+
+---
+
 #### Figma Measure
 
 [SOURCE CODE](https://github.com/ph1p/figma-measure) · [PLUGIN](https://www.figma.com/c/plugin/739918456607459153/Figma-Measure) · [MIT](https://github.com/ph1p/figma-measure/blob/main/LICENSE)
@@ -654,14 +662,6 @@ Enables the user to quickly sort the order of layers based on position, name (al
 [SOURCE CODE](https://github.com/microsoft/figma-variables-import) • [PLUGIN](https://www.figma.com/community/plugin/1253424530216967528/variables-import) • [MIT](https://github.com/microsoft/figma-variables-import/blob/main/LICENSE.txt)
 
 The plugin allows import of design token as Figma variables. Note the parser is not fully compliant and does not support every token in the DTCG format.
-
----
-
-#### Emoji Pattern Generator
-
-[SOURCE CODE](https://github.com/niyamax/figma-emoji-pattern-generator) • [PLUGIN](https://www.figma.com/community/plugin/1307592924492712453/emoji-pattern-generator) • [MIT](https://github.com/niyamax/figma-emoji-pattern-generator/blob/main/LICENSE)
-
-A Figma plugin that generates beautiful patterns using emojis. Create unique designs with different pattern styles and emoji combinations.
 
 ---
 
