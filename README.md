@@ -553,6 +553,14 @@ Select any instance of a local component and edit the master component in place 
 
 ---
 
+#### Emoji Pattern Generator
+
+[SOURCE CODE](https://github.com/niyamax/figma-emoji-pattern-generator) • [PLUGIN](https://www.figma.com/community/plugin/1307592924492712453/emoji-pattern-generator) • [MIT](https://github.com/niyamax/figma-emoji-pattern-generator/blob/main/LICENSE)
+
+A Figma plugin that generates beautiful patterns using emojis. Create unique designs with different pattern styles and emoji combinations.
+
+---
+
 #### Figma Measure
 
 [SOURCE CODE](https://github.com/ph1p/figma-measure) · [PLUGIN](https://www.figma.com/c/plugin/739918456607459153/Figma-Measure) · [MIT](https://github.com/ph1p/figma-measure/blob/main/LICENSE)
