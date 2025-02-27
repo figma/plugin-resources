@@ -405,6 +405,14 @@ Quick access to Feather icons in Figma.
 
 ---
 
+#### Figma Text to Icon
+
+[SOURCE CODE](https://github.com/lichin-lin/figma-text-to-icon) • NO LICENSE
+
+A Figma plugin that generate icon from text, built with Next.js, Tailwind, Shadcn UI, and Replicate API
+
+---
+
 #### Iconify
 
 [SOURCE CODE](https://github.com/iconify/iconify-figma) • [PLUGIN](https://www.figma.com/community/plugin/735098390272716381/Iconify) • [APACHE LICENSE 2.0](https://github.com/iconify/iconify-figma/blob/main/license.txt)
