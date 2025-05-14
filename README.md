@@ -155,17 +155,17 @@ A collection of useful helper functions to import to your Figma plugin project
 
 ### CI/CD Release Tools
 
-#### figma-plugin-deploy
-
-[SOURCE CODE](https://github.com/typper-io/figma-plugin-deploy) · [MIT](https://github.com/typper-io/figma-plugin-deploy/blob/main/LICENSE)
-
-A GitHub Action to automate the deployment of Figma plugins. This action handles the entire deployment process, from authentication to publishing, making continuous deployment of Figma plugins seamless and efficient.
-
 #### figcd
 
 [SOURCE CODE](https://github.com/parrot-global/figcd) · [MIT](https://github.com/parrot-global/figcd/blob/main/LICENSE)
 
 A CLI tool for seamless continuous delivery of Figma plugins. Inspired by Fastlane, figcd streamlines the manual process of publishing Figma plugins.
+
+#### figma-plugin-deploy
+
+[SOURCE CODE](https://github.com/typper-io/figma-plugin-deploy) · [MIT](https://github.com/typper-io/figma-plugin-deploy/blob/main/LICENSE)
+
+A GitHub Action to automate the deployment of Figma plugins. This action handles the entire deployment process, from authentication to publishing, making continuous deployment of Figma plugins seamless and efficient.
 
 **[⬆ Back to TOC](#table-of-contents)**
 
